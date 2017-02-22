@@ -1,0 +1,8 @@
+5.2.3f1:2.0.0.0
+StandaloneWindows
+D:/install/Unity5.2/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll
+D:/install/Unity5.2/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/install/Unity5.2/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/install/Unity5.2/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+D:/install/Unity5.2/Editor/Data\Managed/Mono.Cecil.dll
+D:/install/Unity5.2/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
